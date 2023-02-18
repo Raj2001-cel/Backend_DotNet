@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "BbjQ4C3u7u8/fpqAOW21Fgu1ZdueSywu1wUiEhqVYiU8+sUf6+lNvxUf15O24Pd9m247ICBkGUO6aqUI/N/cqQ==",
+  "dgSpecHash": "t4RmdlMcQh3RxIP7PU5QrhNbD2Xk8tBfu+kiYNQpZZ6lyEgfEeHnvqtQ6FWT9d0qLxtl+O2RPifjacRLUh4j0A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Raj\\Documents\\DotNet_practice\\Dotnet_backend\\Dotnet_backend.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Raj\\.nuget\\packages\\mysqlconnector\\2.2.5\\mysqlconnector.2.2.5.nupkg.sha512"
+  ],
   "logs": []
 }

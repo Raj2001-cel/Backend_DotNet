@@ -24,3 +24,5 @@ C:\Users\Raj\Documents\DotNet_practice\Dotnet_backend\obj\Debug\net6.0\refint\Do
 C:\Users\Raj\Documents\DotNet_practice\Dotnet_backend\obj\Debug\net6.0\Dotnet_backend.pdb
 C:\Users\Raj\Documents\DotNet_practice\Dotnet_backend\obj\Debug\net6.0\Dotnet_backend.genruntimeconfig.cache
 C:\Users\Raj\Documents\DotNet_practice\Dotnet_backend\obj\Debug\net6.0\ref\Dotnet_backend.dll
+C:\Users\Raj\Documents\DotNet_practice\Dotnet_backend\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Raj\Documents\DotNet_practice\Dotnet_backend\obj\Debug\net6.0\Dotnet_backend.csproj.CopyComplete
